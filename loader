@@ -19,7 +19,7 @@ local PLACE_SCRIPTS = {
     [98927955463992] = "https://raw.githubusercontent.com/1220-128bit/1220Hub/refs/heads/main/obfuscated_script-1778575173346.lua.txt",
     [537413528] = "https://raw.githubusercontent.com/1220-128bit/1220Hub/refs/heads/main/Build-a-Boat",
     [124216119978534] = "https://raw.githubusercontent.com/1220-128bit/1220Hub/refs/heads/main/Ride-A-Pet",
-    [4580204640] = "",
+    [4580204640] = "https://raw.githubusercontent.com/1220-128bit/OPEN-SOURCE/refs/heads/main/Survive-the-killer",
 }
 -- ============================
 
